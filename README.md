@@ -2,7 +2,7 @@
 # Book Recommendation System
 
 ## Project Overview
-Briefly describe the purpose of your project. Explain what the project does and its target audience. Mention the main features and any unique aspects of your project.
+This project focuses on analyzing and recommending books using a comprehensive dataset. The dataset includes user information, book ratings, and book details, which are crucial for understanding reading trends and preferences.
 
 ## Dataset
 This project utilizes the [Book Recommendation Dataset](https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset) hosted on Kaggle. This dataset contains information about books, ratings, and users, which is essential for building and testing the recommendation system.
